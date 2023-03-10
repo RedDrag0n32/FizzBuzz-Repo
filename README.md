@@ -1,1 +1,2 @@
-# Just making sure my Repo initializes properly
+# Functionality Branch
+This branch is just for functionality
