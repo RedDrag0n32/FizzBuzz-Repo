@@ -1,15 +1,15 @@
 #Fizz Buzz Program
 
 def FizzBuzz(num):
-    if((i % 5 == 0) and (i % 3 == 0)):
+    if((num % 5 == 0) and (num % 3 == 0)):
         return True
 
 def Fizz(num):
-    if(i % 3 == 0):
+    if(num % 3 == 0):
         return True
 
 def Buzz(num):
-    if(i % 5 == 0):
+    if(num % 5 == 0):
         return True
 
 def main():
