@@ -1,9 +1,14 @@
 #Fizz Buzz Program
 
+
 #Function for testing if it is divisible by both 5 and 3
 #if it does the function will return true
 def FizzBuzz(numberInputted):
     if((numberInputted % 5 == 0) and (numberInputted % 3 == 0)):
+        return True
+
+def FizzBuzz(num):
+    if((num % 5 == 0) and (num % 3 == 0)):
         return True
 
 #Function for testing if it is divisible by 5
@@ -44,3 +49,4 @@ def main():
         number += 1
 
 main()
+
