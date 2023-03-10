@@ -1,6 +1,5 @@
 
 # Efficieny Branch
-improved the functionality branch to make it more efficient
+improved the readability of the efficienty branch
 
-# Functionality Branch
-This branch is just for functionality
+
