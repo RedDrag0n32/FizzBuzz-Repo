@@ -1,5 +1,6 @@
 #Fizz Buzz Program
 
+
 def FizzBuzz(num):
     if((num % 5 == 0) and (num % 3 == 0)):
         return True
@@ -38,3 +39,4 @@ def main():
         i += 1
 
 main()
+
